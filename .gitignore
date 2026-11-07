@@ -1,5 +1,6 @@
 # Environment
 *.venv
+.env
 
 # MAC Files
 *.DS_Store
