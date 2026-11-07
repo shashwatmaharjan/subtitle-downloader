@@ -4,3 +4,6 @@
 
 # MAC Files
 *.DS_Store
+
+# Subtitles folder
+subtitles/
