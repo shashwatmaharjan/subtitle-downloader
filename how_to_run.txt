@@ -1,4 +1,4 @@
 # Before running, check what the name is on the opensubtitle website.
-# So, I checked that the name is 2018 - Girl from Nowhere and put this
+# So, I checked that the name is Girl from Nowhere (2018) and put this
 
-uv run scripts/main.py --show "2018 - Girl from Nowhere" --season 1 --episodes 1-5
+uv run scripts/main.py --show "Girl from Nowhere (2018)" --season 1 --episodes 1-5
