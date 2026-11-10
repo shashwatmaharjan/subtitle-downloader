@@ -1,1 +1,4 @@
-uv run scripts/main.py --show "Chernobyl" --season 1 --episodes 1-5
+# Before running, check what the name is on the opensubtitle website.
+# So, I checked that the name is 2018 - Girl from Nowhere and put this
+
+uv run scripts/main.py --show "2018 - Girl from Nowhere" --season 1 --episodes 1-5
